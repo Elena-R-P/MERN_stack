@@ -1,2 +1,6 @@
 React create a new prject:
 npx create-react-app your-project-name-here
+
+
+run project:
+npm start
