@@ -4,3 +4,8 @@ npx create-react-app your-project-name-here
 
 run project:
 npm start
+
+
+
+Add extention to Chrome
+React Developer Tools
