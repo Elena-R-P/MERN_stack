@@ -19,3 +19,6 @@ installed:
 npm install @reach/router
 npm install axios
 
+For Express:
+sudo snap install postman
+
