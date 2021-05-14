@@ -22,3 +22,11 @@ npm install axios
 For Express:
 sudo snap install postman
 
+
+MongoDB installation (if Homebrew was installed (https://brew.sh/))
+xcode-select --install
+brew tap mongodb/brew
+brew install mongodb-community
+brew services start mongodb-community
+
+run MongoDB => mongo
