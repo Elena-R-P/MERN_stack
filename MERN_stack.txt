@@ -16,6 +16,10 @@ app.listen(port, () => console.log(`Listening on port: ${port}`) );
 After that React create a new prject:
 npx create-react-app your-project-name-here
 
+install:
+npm install @reach/router
+npm install axios
+npm install cors
 
 run project:
 npm start
@@ -30,9 +34,7 @@ BootstrapCDN (https://www.bootstrapcdn.com/):
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
 
 
-installed:
-npm install @reach/router
-npm install axios
+
 
 For Express:
 sudo snap install postman
