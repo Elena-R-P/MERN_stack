@@ -1,4 +1,19 @@
-React create a new prject:
+Full Stack MERN (set up project):
+mkdir myNewProject
+cd myNewProject
+npm init -y
+npm install express
+npm install mongoose
+touch server.js
+
+in server.js:
+const express = require('express');
+const app = express();
+const port = 8000;
+    
+app.listen(port, () => console.log(`Listening on port: ${port}`) );
+
+After that React create a new prject:
 npx create-react-app your-project-name-here
 
 
