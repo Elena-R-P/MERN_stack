@@ -1,10 +1,10 @@
 Full Stack MERN (set up project):
 mkdir myNewProject
 cd myNewProject
-npm init -y
-npm install express
-npm install mongoose
 touch server.js
+npm init -y
+npm install express cors mongoose
+
 
 in server.js:
 const express = require('express');
