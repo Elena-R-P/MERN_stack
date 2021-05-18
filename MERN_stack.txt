@@ -21,9 +21,11 @@ npm install @reach/router
 npm install axios
 npm install cors
 
-run project:
-npm start
+run project from client folder:
+npm run start
 
+run project from main folder:
+nodemon server.js
 
 
 Add extention to Chrome
