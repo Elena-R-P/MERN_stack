@@ -49,3 +49,13 @@ brew install mongodb-community
 brew services start mongodb-community
 
 run MongoDB => mongo
+
+
+
+DATE FORMAT:
+install:
+npm install --save moment react-moment
+npm install --save moment-timezone
+
+code ex:
+<Moment format="YYYY/MM/DD">{details.graduation_date}</Moment>
