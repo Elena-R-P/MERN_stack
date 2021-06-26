@@ -14,7 +14,7 @@ const port = 8000;
 app.listen(port, () => console.log(`Listening on port: ${port}`) );
 
 After that React create a new prject:
-npx create-react-app your-project-name-here
+npx create-react-app client
 
 install in the new react project:
 npm install @reach/router
